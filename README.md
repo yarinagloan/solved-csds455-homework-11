@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-csds455-homework-11
+<br>
+Give each face <em>f </em>a “charge” of |<em>f</em>| − 4 where |<em>f</em>| is the number of vertices on the face. Prove that the total charge of the graph is negative.
+
+<strong>Problem 2</strong>: Let <em>G </em>be a simple, planar graph with <em>δ</em>(<em>G</em>) ≥ 3. Give each vertex <em>v </em>a “charge” of <em>d</em>(<em>v</em>) − 4, and give each face <em>f </em>a “charge” of |<em>f</em>| − 4. Prove that if every vertex of degree 3 is adjacent to three faces of size 6 or larger, then we can “discharge” the degree 3 vertices by transfering the negative charge of the degree 3 vertices its adjacent faces such that every vertex of <em>G </em>and every face of <em>G </em>of size 6 or larger has non-negative charge and such that the total charge of <em>G </em>does not change.
+
+<strong>Problem 3: </strong>Prove that for any simple, planar graph <em>G </em>with <em>δ</em>(<em>G</em>) ≥ 3, there exists a vertex <em>v </em>on face <em>f </em>such that <em>d</em>(<em>v</em>) + |<em>f</em>| ≤ 8. (Assume there is no such vertex or face and give a discharging rule that results in every vertex and face of <em>G </em>having non-negative charge.)
